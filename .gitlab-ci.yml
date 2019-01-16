@@ -1,0 +1,8 @@
+192.168.16.179:
+  stage: deploy
+  script:
+  - cp -r static web.py /opt/network-visualization
+  only:
+  - master
+  tags:
+  - 192.168.16.179

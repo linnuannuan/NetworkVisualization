@@ -1,0 +1,50 @@
+#structure {
+    cursor: pointer;
+}
+#transaction-network {
+    cursor: pointer;
+}
+#control-network {
+    cursor: pointer;
+}
+#investment-network {
+    cursor: pointer;
+}
+#group {
+    cursor: pointer;
+}
+#affiliated-transaction {
+    cursor: pointer;
+    display: none;
+}
+#backtrack {
+    cursor: pointer;
+    display: none;
+}
+canvas {
+    position: fixed;
+    cursor: pointer;
+}
+#tax-big-data-group {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    /*color: #fff;*/
+}
+#status {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    /*color: #fff;*/
+}
+#information {
+    position: fixed;
+    /*color: #fff;*/
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+    margin-left:42%;
+    margin-top: 25%;
+    padding-bottom: 25px;
+}

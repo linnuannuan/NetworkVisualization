@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<g>
+		<line fill="none" stroke="#F39800" stroke-miterlimit="10" x1="55.524" y1="73.279" x2="21.762" y2="114.302"/>
+		<g>
+			<polygon fill="#F39800" points="17.275,119.754 20.459,109.488 22.098,113.895 26.736,114.654 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#009944" stroke-miterlimit="10" x1="52.563" y1="70.134" x2="15.288" y2="114.58"/>
+		<g>
+			<polygon fill="#009944" points="10.75,119.99 14.029,109.754 15.627,114.176 20.258,114.979 			"/>
+		</g>
+	</g>
+</g>
+<ellipse fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" cx="63.948" cy="61.169" rx="14.274" ry="15.07"/>
+<g>
+	<g>
+		<line fill="none" stroke="#009944" stroke-miterlimit="10" x1="149.015" y1="73.408" x2="188.735" y2="114.463"/>
+		<g>
+			<polygon fill="#009944" points="193.645,119.537 183.805,115.214 188.368,114.084 189.647,109.561 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#C30D23" stroke-miterlimit="10" x1="78.223" y1="61.169" x2="117.889" y2="61.169"/>
+		<g>
+			<polygon fill="#C30D23" points="124.949,61.169 115,65.234 117.361,61.169 115,57.104 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#F39800" stroke-miterlimit="10" x1="144.823" y1="74.977" x2="182.412" y2="114.887"/>
+		<g>
+			<polygon fill="#F39800" points="187.253,120.027 177.472,115.572 182.05,114.503 183.391,109.998 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.6864 0.7275 -0.6891 0.7247 155.6768 73.4146)" font-family="'ArialMT'" font-size="7.7663">investment</text>
+<text transform="matrix(0.6508 -0.7671 0.7266 0.6871 19.9087 104.3574)" font-family="'ArialMT'" font-size="7.7439">investment</text>
+<text transform="matrix(0.6835 0.7309 -0.6923 0.7216 147.0137 86.877)" font-family="'ArialMT'" font-size="7.7645">control</text>
+<text transform="matrix(0.6365 -0.7818 0.7405 0.672 37.5171 106.668)" font-family="'ArialMT'" font-size="7.7354">control</text>
+<text transform="matrix(0.9472 0 0 1 86.8906 54.895)" fill="#C30D23" font-family="'ArialMT'" font-size="7.9748">family</text>
+<ellipse fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" cx="139.224" cy="61.169" rx="14.275" ry="15.07"/>
+<rect x="86.268" y="120.368" fill="#2EA7E0" stroke="#000000" stroke-miterlimit="10" width="28.55" height="30.141"/>
+<rect x="1.672" y="120.368" fill="#2EA7E0" stroke="#000000" stroke-miterlimit="10" width="28.549" height="30.143"/>
+<text transform="matrix(0.9472 0 0 1 132.7324 65.0928)" font-family="'ArialMT'" font-size="10.6331">P2</text>
+<text transform="matrix(0.9472 0 0 1 58.7129 65.0928)" font-family="'ArialMT'" font-size="10.6331">P1</text>
+<text transform="matrix(0.9472 0 0 1 9.8955 139.1084)" font-family="'ArialMT'" font-size="10.6331">C1</text>
+<text transform="matrix(0.9472 0 0 1 93.2334 139.1084)" font-family="'ArialMT'" font-size="10.6331">C3</text>
+<text transform="matrix(0.9472 0 0 1 34.9971 148.9316)" font-family="'ArialMT'" font-size="7.9748">transaction</text>
+<g>
+	<g>
+		<line fill="none" stroke="#C30D23" stroke-miterlimit="10" x1="30.333" y1="139.109" x2="78.19" y2="139.109"/>
+		<g>
+			<polygon fill="#C30D23" points="85.251,139.109 75.302,143.175 77.662,139.109 75.302,135.045 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#F39800" stroke-miterlimit="10" x1="169.463" y1="140.405" x2="122.156" y2="140.405"/>
+		<g>
+			<polygon fill="#F39800" points="115.096,140.405 125.045,136.34 122.684,140.405 125.045,144.47 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#009944" stroke-miterlimit="10" x1="169.463" y1="130.989" x2="122.156" y2="130.989"/>
+		<g>
+			<polygon fill="#009944" points="115.096,130.989 125.045,126.924 122.684,130.989 125.045,135.054 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9472 0 0 1 128.7656 127.6816)" font-family="'ArialMT'" font-size="7.9748">investment</text>
+<text transform="matrix(0.9472 0 0 1 132.7324 150.5068)" font-family="'ArialMT'" font-size="7.9748">control</text>
+<rect x="169.463" y="120.368" fill="#2EA7E0" stroke="#000000" stroke-miterlimit="10" width="28.549" height="30.143"/>
+<text transform="matrix(0.9472 0 0 1 177.8105 139.1084)" font-family="'ArialMT'" font-size="10.6331">C2</text>
+</svg>
